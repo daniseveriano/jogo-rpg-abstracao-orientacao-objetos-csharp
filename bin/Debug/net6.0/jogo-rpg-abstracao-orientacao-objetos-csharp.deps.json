@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "jogo-rpg-abstracao-orientacao-objetos-csharp/1.0.0": {
+        "runtime": {
+          "jogo-rpg-abstracao-orientacao-objetos-csharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jogo-rpg-abstracao-orientacao-objetos-csharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

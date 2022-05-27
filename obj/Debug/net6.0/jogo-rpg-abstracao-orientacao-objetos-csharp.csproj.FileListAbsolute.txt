@@ -1,0 +1,15 @@
+/home/danisck/Documentos/jogo-rpg-abstracao-orientacao-objetos-csharp/bin/Debug/net6.0/jogo-rpg-abstracao-orientacao-objetos-csharp
+/home/danisck/Documentos/jogo-rpg-abstracao-orientacao-objetos-csharp/bin/Debug/net6.0/jogo-rpg-abstracao-orientacao-objetos-csharp.deps.json
+/home/danisck/Documentos/jogo-rpg-abstracao-orientacao-objetos-csharp/bin/Debug/net6.0/jogo-rpg-abstracao-orientacao-objetos-csharp.runtimeconfig.json
+/home/danisck/Documentos/jogo-rpg-abstracao-orientacao-objetos-csharp/bin/Debug/net6.0/jogo-rpg-abstracao-orientacao-objetos-csharp.dll
+/home/danisck/Documentos/jogo-rpg-abstracao-orientacao-objetos-csharp/bin/Debug/net6.0/jogo-rpg-abstracao-orientacao-objetos-csharp.pdb
+/home/danisck/Documentos/jogo-rpg-abstracao-orientacao-objetos-csharp/obj/Debug/net6.0/jogo-rpg-abstracao-orientacao-objetos-csharp.csproj.AssemblyReference.cache
+/home/danisck/Documentos/jogo-rpg-abstracao-orientacao-objetos-csharp/obj/Debug/net6.0/jogo-rpg-abstracao-orientacao-objetos-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/danisck/Documentos/jogo-rpg-abstracao-orientacao-objetos-csharp/obj/Debug/net6.0/jogo-rpg-abstracao-orientacao-objetos-csharp.AssemblyInfoInputs.cache
+/home/danisck/Documentos/jogo-rpg-abstracao-orientacao-objetos-csharp/obj/Debug/net6.0/jogo-rpg-abstracao-orientacao-objetos-csharp.AssemblyInfo.cs
+/home/danisck/Documentos/jogo-rpg-abstracao-orientacao-objetos-csharp/obj/Debug/net6.0/jogo-rpg-abstracao-orientacao-objetos-csharp.csproj.CoreCompileInputs.cache
+/home/danisck/Documentos/jogo-rpg-abstracao-orientacao-objetos-csharp/obj/Debug/net6.0/jogo-rpg-abstracao-orientacao-objetos-csharp.dll
+/home/danisck/Documentos/jogo-rpg-abstracao-orientacao-objetos-csharp/obj/Debug/net6.0/refint/jogo-rpg-abstracao-orientacao-objetos-csharp.dll
+/home/danisck/Documentos/jogo-rpg-abstracao-orientacao-objetos-csharp/obj/Debug/net6.0/jogo-rpg-abstracao-orientacao-objetos-csharp.pdb
+/home/danisck/Documentos/jogo-rpg-abstracao-orientacao-objetos-csharp/obj/Debug/net6.0/jogo-rpg-abstracao-orientacao-objetos-csharp.genruntimeconfig.cache
+/home/danisck/Documentos/jogo-rpg-abstracao-orientacao-objetos-csharp/obj/Debug/net6.0/ref/jogo-rpg-abstracao-orientacao-objetos-csharp.dll
